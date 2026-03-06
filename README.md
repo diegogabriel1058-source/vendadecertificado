@@ -1,4 +1,6 @@
 # Certificados Online - Sistema de Venda de Certificados
+<img width="1858" height="869" alt="image" src="https://github.com/user-attachments/assets/a7a39186-d50d-4cc6-8397-74ff08707f6f" />
+
 ## Sobre o projeto
 
 Este é um sistema simples e funcional de **venda de certificados** (cursos, eventos, workshops etc.).  
